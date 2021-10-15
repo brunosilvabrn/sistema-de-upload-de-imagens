@@ -1,0 +1,16 @@
+{
+    "name": "bruno/sistemaimagens",
+    "description": "Projeto upload de imagens em php.",
+    "authors": [
+        {
+            "name": "Bruno Silva",
+            "email": "brunosilvayt007@gmail.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4":{
+    		"App\\":"app/",
+            "Config\\": "config/"
+    	}
+    }
+}
